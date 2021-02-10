@@ -1,0 +1,22 @@
+p {
+    color: green;
+    font-size: large;
+}
+
+li {
+    color: rgb(201, 87, 87);
+    font-size: medium;
+}
+
+html {
+    background-color: rgb(231, 231, 221);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    border: 1px solid black;
+}
+
+h1 {
+    text-decoration: underline;
+}
