@@ -1,6 +1,12 @@
+/* Mahir Riki
+IntroCS pd5 sec08
+HW04 -- Stuylin'
+2021-2-09 
+*/
+
 p {
-    color: green;
-    font-size: large;
+    color: green; /* changes the color of paragraphs to green */
+    font-size: large; /* makes the size of the font for paragraphs large */
 }
 
 li {
@@ -10,13 +16,13 @@ li {
 
 html {
     background-color: rgb(231, 231, 221);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif; /* changes the whole webpage's font to Times New Roman */
 }
 
 ul {
-    border: 1px solid black;
+    border: 1px solid black; /* creates a border with a 1px thickness */
 }
 
 h1 {
-    text-decoration: underline;
+    text-decoration: underline; /* underlines the h1 text */
 }
